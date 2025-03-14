@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Itk24 Azure/title>
+    <title>Itk24 Azure/<title>
     </head>
       <body>
         <h1><Meie projekt ITK24 grupiga</h1>
